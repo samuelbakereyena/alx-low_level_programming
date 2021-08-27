@@ -1,0 +1,25 @@
+2021/08/27-03:31:20.197 16b5 Reusing MANIFEST /home/eyena/.config/google-chrome/Default/IndexedDB/https_www.newvision.co.ug_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/27-03:31:20.197 16b5 Recovering log #11
+2021/08/27-03:31:20.197 16b5 Reusing old log /home/eyena/.config/google-chrome/Default/IndexedDB/https_www.newvision.co.ug_0.indexeddb.leveldb/000011.log 
+2021/08/27-03:31:20.198 16b5 Delete type=2 #10
+2021/08/27-03:31:20.578 1937 Level-0 table #16: started
+2021/08/27-03:31:20.633 1937 Level-0 table #16: 2926 bytes OK
+2021/08/27-03:31:20.666 1937 Delete type=0 #11
+2021/08/27-03:31:20.666 1937 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 610 : 1
+2021/08/27-03:31:20.666 1937 Compacting 1@0 + 1@1 files
+2021/08/27-03:31:20.756 1937 Generated table #17@0: 206 keys, 3521 bytes
+2021/08/27-03:31:20.756 1937 Compacted 1@0 + 1@1 files => 3521 bytes
+2021/08/27-03:31:20.833 1937 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/27-03:31:20.833 1937 Delete type=2 #16
+2021/08/27-03:31:20.833 1937 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 610 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/27-03:31:21.069 1935 Level-0 table #19: started
+2021/08/27-03:31:21.131 1935 Level-0 table #19: 667 bytes OK
+2021/08/27-03:31:21.248 1935 Delete type=0 #15
+2021/08/27-03:31:21.248 1935 Delete type=2 #13
+2021/08/27-03:31:21.248 18c4 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 634 : 1
+2021/08/27-03:31:21.248 18c4 Compacting 1@0 + 1@1 files
+2021/08/27-03:31:21.305 18c4 Generated table #20@0: 210 keys, 3514 bytes
+2021/08/27-03:31:21.305 18c4 Compacted 1@0 + 1@1 files => 3514 bytes
+2021/08/27-03:31:21.464 18c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/27-03:31:21.464 18c4 Delete type=2 #19
+2021/08/27-03:31:21.464 18c4 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 634 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
