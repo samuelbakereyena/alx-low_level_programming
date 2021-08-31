@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _isalpha - checks if it's a letter
  * @c: number to be checked
