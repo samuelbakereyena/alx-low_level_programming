@@ -3,7 +3,7 @@
  * _isalpha - checks if it's a letter
  * @c: number to be checked
  *
- * holberton.h: created header
+ * main.h: created header
  *
  * Return: 1 if it is letter, 0 otherwise
 **/
