@@ -1,26 +1,31 @@
-#include "stdio.h"
+#include "main.h"
+#include <stdio.h>
 
 /**
  * main - program that prints out the highest prime
- *Return: 0
+ * Return: 0
  */
 int main(void)
 {
-  int i = 2;
-  long n = 61285247543;
+	int i = 2;
+	long n = 612852475143;
 
-  while (i < n)
-    {
-      while (n % i == 0)
+
+	while (i < n)
 	{
-	  if (n == i)
-	    {
-	      break;
-	    }
-	  n / = i;
+		while (n % i == 0)
+		{
+			if (n == i)
+			{
+				break;
+			}
+			n /= i;
+		}
+		i++;
+
+
 	}
-      i++;
-    }
-  printf("%lu\n", n);
-  return (0);
+
+	printf("%lu\n", n);
+	return (0);
 }
