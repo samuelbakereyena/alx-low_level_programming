@@ -44,4 +44,5 @@ ssize_t read_textfile(const char *filename, size_t letters)
 
 	close(file); /*close file*/
 
-
+	return (wcount);
+}
